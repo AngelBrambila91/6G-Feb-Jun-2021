@@ -1,0 +1,20 @@
+
+P
+java:S1068".Remove this unused "mTextView1" private field.(´ÈæĞûÿÿÿÿ8Œ·ùü.
+N
+java:S1068",Remove this unused "mButton1" private field.(¬ò®•üÿÿÿÿ8ŒÉüØú.
+N
+java:S1068",Remove this unused "mButton2" private field.(áİİäÿÿÿÿÿ8¬Ú·ùü.
+P
+java:S1128".Remove this unused import 'android.view.View'.(Ø½­äşÿÿÿÿ8¬Ú·ùü.
+j	java:S116"NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸·µù8ÅŸíÙú.
+>
+java:S1170"!Make this final field static too.(¸·µù8ÅŸíÙú.
+O
+java:S1128"-Remove this unused import 'android.util.Log'.(Ô¦Ø²øÿÿÿÿ8Œ·ùü.
+S
+java:S1128	"1Remove this unused import 'android.widget.Toast'.(©›ïÍúÿÿÿÿ8Œ·ùü.
+D
+java:S1068"'Remove this unused "TAG" private field.(¸·µù8Œ·ùü.
+O
+java:S1068"-Remove this unused "mTexView2" private field.(î„î–üÿÿÿÿ8ŒÉüØú.

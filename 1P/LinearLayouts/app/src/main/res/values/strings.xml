@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">LinearLayouts</string>
+    <string name="app_name">Testing stuff</string>
+    <string name="enviar_boton">ENVIAR</string>
+    <string name="button_click_text">Hola Mundo UwU</string>
+    <string name="mainActivity_Toast">Holooooooo</string>
+    <string name="Texto_para_TextViews">TEXTO</string>
+    <string name="Texto_boton">Dame click</string>
+    <string name="Texto_Abajo">" Pie de pagina"</string>
 </resources>
