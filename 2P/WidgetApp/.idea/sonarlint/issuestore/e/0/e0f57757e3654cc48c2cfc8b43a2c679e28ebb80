@@ -1,0 +1,21 @@
+
+J
+java:S1481".Remove this unused "textClock" local variable.(Ÿ¡èv8Ç£½ØŒ/
+L
+java:S1481"/Remove this unused "radioGroup" local variable.(äÇÒ8¤ñ´ØŒ/
+O
+java:S1481"-Remove this unused "editText" local variable.(µÃ™™ûÿÿÿÿ8ÛÒ»ØŒ/
+^
+java:S1854"<Remove this useless assignment to local variable "editText".(µÃ™™ûÿÿÿÿ8ÛÒ»ØŒ/
+[
+java:S1854">Remove this useless assignment to local variable "radioGroup".(äÇÒ8¤ñ´ØŒ/
+I
+java:S1481#",Remove this unused "switch1" local variable.(ä°„8ÙÊÄØŒ/
+V
+java:S1854":Remove this useless assignment to local variable "button".(¾ƒª8ÛÒ»ØŒ/
+G
+java:S1481"+Remove this unused "button" local variable.(¾ƒª8ÛÒ»ØŒ/
+X
+java:S1854#";Remove this useless assignment to local variable "switch1".(ä°„8ÙÊÄØŒ/
+Y
+java:S1854"=Remove this useless assignment to local variable "textClock".(Ÿ¡èv8Ç£½ØŒ/

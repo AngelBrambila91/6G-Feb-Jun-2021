@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HeapStack</string>
+    <string name="txtViewNumber">0</string>
+    <string name="shrink">Shrink</string>
+    <string name="add">Add</string>
+    <string name="reset">Reset</string>
+    <string name="hide">Hide</string>
+    <string name="take">Take</string>
+    <string name="grow">Grow</string>
+</resources>

@@ -1,6 +1,6 @@
 
-n
-java:S1192E"LDefine a constant instead of duplicating this literal "numMessages" 4 times.(æ¬úûúÿÿÿÿ8‰²µº/
-m	java:S128T"LEnd this switch case with an unconditional break, return or throw statement.(úâúÿÿÿÿ8‰²µº/
 ]	java:S125M"<This block of commented-out lines of code should be removed.(›µÓìÿÿÿÿÿ8¸£­º/
 J	java:S108j")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ8÷ğÍº/
+m	java:S128T"LEnd this switch case with an unconditional break, return or throw statement.(úâúÿÿÿÿ8‰²µº/
+n
+java:S1192E"LDefine a constant instead of duplicating this literal "numMessages" 4 times.(æ¬úûúÿÿÿÿ8‰²µº/
