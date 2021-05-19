@@ -1,0 +1,10 @@
+
+E	java:S108=")Either remove or fill this block of code.(‹±ÃÆ8˜äéì•/
+’
+java:S1319."pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(óæ´îøÿÿÿÿ8óÚÎì•/
+v
+java:S2293/"YReplace the type specification in this constructor call with the diamond operator ("<>").(ª¢Ñ8¥âĞì•/
+L
+java:S2093#"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8’½Êì•/
+L
+java:S20931"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8Ø€ëì•/

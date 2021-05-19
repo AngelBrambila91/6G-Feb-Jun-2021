@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.logicadifusa.databaseexample.MainActivity"
+    tools:showIn="navigation_view">
+
+    <item
+        android:id="@+id/nav_insert"
+        android:title="Insert" />
+    <item
+        android:id="@+id/nav_delete"
+        android:title="Delete" />
+    <item
+        android:id="@+id/nav_search"
+        android:title="Search" />
+    <item
+        android:id="@+id/nav_results"
+        android:title="Results" />
+</menu>

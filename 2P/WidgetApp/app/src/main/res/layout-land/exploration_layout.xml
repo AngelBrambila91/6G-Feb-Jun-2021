@@ -65,20 +65,12 @@
             android:layout_alignParentEnd="true"
             android:layout_alignParentBottom="true"
             android:layout_marginStart="71dp"
+            android:layout_marginTop="25dp"
             android:layout_marginEnd="72dp"
             android:layout_marginBottom="42dp"
             android:text="@string/button"
             android:textSize="10sp" />
 
-        <TextClock
-            android:id="@+id/textClock"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_alignParentTop="true"
-            android:layout_centerHorizontal="true"
-            android:layout_marginTop="-20dp"
-            android:gravity="center_horizontal"
-            android:textSize="54sp" />
     </RelativeLayout>
 
     <RelativeLayout
@@ -127,6 +119,19 @@
             android:layout_marginTop="215dp"
             android:layout_marginEnd="52dp"
             app:srcCompat="@drawable/ic_launcher_background" />
+
+        <TextClock
+            android:id="@+id/textClock"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="128dp"
+            android:layout_marginTop="67dp"
+            android:layout_marginEnd="130dp"
+            android:layout_marginBottom="24dp"
+            android:gravity="center_horizontal"
+            android:textSize="20sp" />
     </RelativeLayout>
 
     <RelativeLayout
@@ -140,22 +145,36 @@
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
-            android:layout_marginStart="64dp"
-            android:layout_marginTop="68dp"
+            android:layout_marginStart="65dp"
+            android:layout_marginTop="20dp"
             android:clickable="true"
             android:enabled="true"
             android:text="@string/switchWidgetText" />
 
         <TextView
             android:id="@+id/textView"
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:layout_alignStart="@+id/switch1"
+            android:layout_width="230dp"
+            android:layout_height="94dp"
+            android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
-            android:layout_marginStart="4dp"
-            android:layout_marginTop="169dp"
-            android:text="@string/textview"
-            android:textSize="34sp" />
+            android:layout_alignParentEnd="true"
+            android:layout_marginStart="6dp"
+            android:layout_marginTop="55dp"
+            android:layout_marginEnd="8dp"
+            android:text="Lorem Ipsum"
+            android:textColor="@color/black"
+            android:textSize="20sp" />
+
+        <WebView
+            android:id="@+id/webView"
+            android:layout_width="244dp"
+            android:layout_height="248dp"
+            android:layout_below="@+id/textView"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginStart="-9dp"
+            android:layout_marginTop="15dp"
+            android:layout_marginEnd="9dp" />
 
     </RelativeLayout>
 </LinearLayout>

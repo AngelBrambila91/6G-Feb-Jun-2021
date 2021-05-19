@@ -1,0 +1,13 @@
+
+w
+java:S1450="URemove the "mPrefs" field and declare it as a local variable in the relevant methods.(ç”Š¨şÿÿÿÿ8ØÒÑë•/
+g
+java:S1128"JRemove this unused import 'com.google.android.material.snackbar.Snackbar'.(ë„ƒŠ8±ÙçØ/
+v
+java:S2293R"YReplace the type specification in this constructor call with the diamond operator ("<>").(Şûõ£8Ü‹úì•/
+W	java:S125"<This block of commented-out lines of code should be removed.(â‡ßy8Ö£³™‘/
+X	java:S125Y"<This block of commented-out lines of code should be removed.(¹«É8…èÖë•/
+X	java:S125 "<This block of commented-out lines of code should be removed.(•ùà³8Úıóì•/
+X	java:S125_"<This block of commented-out lines of code should be removed.(§Â×Œ8§Ã¦˜‘/
+y
+java:S1450<"\Remove the "mShowDividers" field and declare it as a local variable in the relevant methods.(‚‹ÿá8ØÒÑë•/

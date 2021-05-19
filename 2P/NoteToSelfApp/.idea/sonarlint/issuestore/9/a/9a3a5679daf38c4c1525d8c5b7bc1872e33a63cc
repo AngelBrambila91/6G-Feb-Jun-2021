@@ -1,0 +1,11 @@
+
+^
+java:S1854"<Remove this useless assignment to local variable "txtTitle".(ËÚˆÎşÿÿÿÿ8Ë¶Ø/
+U
+java:S1481"3Remove this unused "txtDescription" local variable.(â–ÛËúÿÿÿÿ8…’¸Ø/
+d
+java:S1854"BRemove this useless assignment to local variable "txtDescription".(â–ÛËúÿÿÿÿ8…’¸Ø/
+O
+java:S1481"-Remove this unused "txtTitle" local variable.(ËÚˆÎşÿÿÿÿ8Ë¶Ø/
+T
+java:S1135"2Complete the task associated to this TODO comment.(È¢Êúÿÿÿÿ8¢¤§Ø/
